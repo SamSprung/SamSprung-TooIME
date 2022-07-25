@@ -1,8 +1,4 @@
 <p align="center">
-NOTICE:
-<br />
-This is a lite version. Full version on Google Play.
-<br />
   <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung.ime"><img src="https://github.com/SamSprung/SamSprung-Keyboard/blob/main/assets/google-play-badge.png" /></a>
 </p>
 
