@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung.ime"><img src="https://github.com/SamSprung/SamSprung-Keyboard/blob/main/assets/google-play-badge.png" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung.ime"><img src="assets/google-play-badge.png" /></a>
 </p>
 
 ## SamSprung Keyboard
@@ -17,6 +17,7 @@
 - Enable the permission switches to enable access
 - Make sure to return to the app from any prompts
 - Enable the keyboard, but do not set as the default
+- [See the wiki for additional setup and instructions](https://samsprung.github.io/keyboard/wiki.html)
 
 ##
 ![SamSprung Logo](assets/feature_graphic.png)
