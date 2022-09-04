@@ -17,7 +17,7 @@
 - Enable the permission switches to enable access
 - Make sure to return to the app from any prompts
 - Enable the keyboard, but do not set as the default
-- [See the wiki for additional setup and instructions](https://samsprung.github.io/keyboard/wiki.html)
+- [See the wiki for additional setup and instructions](https://samsprung.github.io/keyboard/)
 
 ##
 ![SamSprung Logo](assets/feature_graphic.png)
