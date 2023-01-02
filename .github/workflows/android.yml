@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [ keyboard ]
 
+permissions:
+  contents: write
+
 jobs:
   build:
 
